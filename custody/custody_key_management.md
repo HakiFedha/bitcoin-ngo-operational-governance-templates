@@ -12,9 +12,8 @@
 ## 2. Custody Model
 
 **Select Wallet Infrastructure Model:**  
-* [ ] Third-party institutional custody / Regulated platform  
+* [ ] Third-party institutional custody
 * [ ] Single-device institutional self-custody (*Hardware wallet*)  
-* [ ] Shared self-custody over decentralized networks / Protocols  
 * [ ] Distributed multi-signature framework (Multisig)  
 
 **If Multisig / Shared Setup, Specify Threshold:**  
