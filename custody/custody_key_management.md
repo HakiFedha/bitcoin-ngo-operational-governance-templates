@@ -12,12 +12,13 @@
 ## 2. Custody Model
 
 **Select Wallet Infrastructure Model:**  
+* [ ] Single signature custody 
+* [ ] Shared self-custody (multisig)
 * [ ] Third-party institutional custody
-* [ ] Single-device institutional self-custody (*Hardware wallet*)  
-* [ ] Distributed multi-signature framework (Multisig)  
+
 
 **If Multisig / Shared Setup, Specify Threshold:**  
-`______` of `______` required signatures/keys to authorize a transaction.
+`______` of `______` required signatures/keys to authorise a transaction.
 
 ---
 
@@ -31,13 +32,24 @@
 
 ---
 
-## 4. Backup Locations
+## 4. Backup Governance & Storage Framework
 
-*Secure, physically isolated locations where recovery phrases, seed shares, or emergency backups are held offline.*
+*To maintain operational security, the precise physical locations of wallet recovery phrases or seed shares must never be logged in this document. Instead, record the institutional storage method and the designated custodians responsible for verifying their security.*
 
-*   **Backup 1 Location:** `____________________________________________________________________________________`  
-*   **Backup 2 Location:** `____________________________________________________________________________________`  
-*   **Backup 3 Location:** `____________________________________________________________________________________`  
+*   **Primary Backup Share (Seed/Key 1):**  
+    *   **Storage Type:** [e.g., Secure Off-site Safe / Bank Deposit Box]  
+    *   **Designated Custodian(s):** `______________________________________________________`  
+    *   **Last Physical Verification Date:** `______________________________________________________`  
+
+*   **Secondary Backup Share (Seed/Key 2):**  
+    *   **Storage Type:** [e.g., Commercial Vault / Geographically Isolated Safe]  
+    *   **Designated Custodian(s):** `______________________________________________________`  
+    *   **Last Physical Verification Date:** `______________________________________________________`  
+
+*   **Tertiary Backup Share (Seed/Key 3 - If Applicable):**  
+    *   **Storage Type:** [e.g., Legal Counsel Escrow]  
+    *   **Designated Custodian(s):** `______________________________________________________`  
+    *   **Last Physical Verification Date:** `______________________________________________________`
 
 ---
 
