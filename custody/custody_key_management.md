@@ -13,8 +13,8 @@
 
 **Select Wallet Infrastructure Model:**  
 * [ ] Single signature custody 
-* [ ] Shared self-custody (multisig)
-* [ ] Third-party institutional custody
+* [ ] Shared self-custody (multisignature)
+* [ ] Third-party custody (e.g., donor or partner organisation)
 
 
 **If Multisig / Shared Setup, Specify Threshold:**  
