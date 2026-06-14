@@ -11,6 +11,8 @@ A collection of open-source policy templates, governance frameworks, and operati
 
 ## Repository Directory
 
+Organisations are strongly encouraged to customise these templates to align with their specific operational, regulatory, and organisational context.
+
 To make these resources actionable, the templates are split into core operational areas:
 
 *   📂 **[Bitcoin Governance Framework](./governance/bitcoin_governance_framework.md)** — Defines internal organisational controls, spending limits, authorisation levels, and board-level oversight policies.
