@@ -43,7 +43,7 @@
 
 ## 5. Recovery Procedure
 
-*Detail the step-by-step verification process required to re-instantiate the organizational wallet on a backup device if primary devices are lost, stolen, or destroyed.*
+*Detail the step-by-step verification process required to re-instantiate the organisational wallet on a backup device if primary devices are lost, stolen, or destroyed.*
 
 `____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________`
 
@@ -70,7 +70,7 @@
 `____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________`
 
 **Scenario C: Active Wallet Compromise**  
-*Immediate isolation steps if a security breach, unauthorized spend, or phishing incident is detected:*  
+*Immediate isolation steps if a security breach, unauthorised spend, or phishing incident is detected:*  
 `____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________`
 
 ---
