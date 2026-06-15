@@ -3,8 +3,6 @@
 ## How to use this template
 This kit contains ready-to-adapt language for three common situations: introducing Bitcoin to your board, updating donors on your Bitcoin policy, and responding to questions or concerns. Adjust the bracketed sections for your organisation. Remove sections that do not apply.
 
-The full downloadable template is available at the end.
-
 > 💡 **Before you begin:** If you need strategic advice on how to navigate these conversations, handle skepticism, or frame the civil society and human rights case for Bitcoin, read our companion guide [**How to Communicate Bitcoin to Donors and Boards**](https://hakifedha.org/docs/guides/bitcoin-guide/communication-guide).
 
 ---
