@@ -6,10 +6,6 @@
 ## How to use this template
 Copy this log into a spreadsheet. Complete one row for every Bitcoin transaction your organisation makes or receives. Keep this record updated in real time rather than reconstructing it later. This log is your primary evidence for donor reporting, audit, and tax purposes.
 
-The full downloadable template is available below.
-
----
-
 ---
 
 ## SECTION G — AUDIT TRAIL NOTES
