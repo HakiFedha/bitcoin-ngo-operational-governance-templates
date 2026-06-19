@@ -8,7 +8,7 @@ Copy this log into a spreadsheet. Complete one row for every Bitcoin transaction
 
 ---
 
-## SECTION G — AUDIT TRAIL NOTES
+## SECTION A — AUDIT TRAIL NOTES
 
 Use this section for any irregular transactions, corrections, infrastructure changes, or audit-relevant notes.
 
